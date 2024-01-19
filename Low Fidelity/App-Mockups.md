@@ -2,7 +2,7 @@
 This is the representation of the colors of the components found in the images of the representations seen in the application.
 
 <p align='center'>
-  <img src='https://github.com/JavierAcosta07/App-mockups/blob/main/Low%20Fidelity/Images/L.F.Image%201.png?raw=true'>
+  <img src='https://github.com/JavierAcosta07/App-mockups/blob/main/Low%20Fidelity/Images/Colors%20.png?raw=true'>
 </p>
 
 ### Login 
