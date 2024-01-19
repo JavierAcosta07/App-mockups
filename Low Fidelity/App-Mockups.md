@@ -4,6 +4,11 @@ This is the representation of the colors of the components found in the images o
 ### Login 
 This is the representation of the login itself. The user enters the email and password that they have previously registered during the sign-up process. In case they haven't registered yet, there is a section below the button that is underlined, allowing them to register. If the user is registered and enters the correct information, they only need to press the button that says "Login" to access the app.
 
+https://github.com/JavierAcosta07/App-mockups/blob/main/Low%20Fidelity/Images/L.F.Image%201.png?raw=true
+<p align='center'>
+  <img src='https://github.com/0marContreras/app-mokups/blob/master/images/logo.png?raw=true'>
+</p>
+
 ### Register 
 This is the representation of the registration process in which the user registers in case they are not already registered. It involves entering the full name, email address, password, and finally, confirming the password to avoid mistakes. Lastly, there is the "Register" button, which saves the user-entered data, allowing them to log in normally afterward.
 
