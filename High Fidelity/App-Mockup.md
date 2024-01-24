@@ -65,6 +65,3 @@ Finally, there is the "Objet's Card," which displays the description and the ite
   <img src='https://github.com/JavierAcosta07/App-mockups/blob/main/High%20Fidelity/Images/H.F.Image%209.jpeg?raw=true'>
 </p>
 
-### Link UXPIN 
-<br>
-<a href="https://app.uxpin.com/dashboard/project/2603910">UXPIN Mockups</a>
